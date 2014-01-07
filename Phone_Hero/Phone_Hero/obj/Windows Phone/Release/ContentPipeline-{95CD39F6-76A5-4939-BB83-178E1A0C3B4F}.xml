@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gameBackground.png</Source>
+      <Name>gameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\gameBackground.xnb</Output>
+      <Time>2013-12-26T15:02:21.7134132+00:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundDraft.png</Source>
+      <Name>backgroundDraft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\backgroundDraft.xnb</Output>
+      <Time>2013-12-26T15:44:12.481576+00:00</Time>
+    </Item>
+    <Item>
+      <Source>buttontest1.png</Source>
+      <Name>buttontest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\buttontest1.xnb</Output>
+      <Time>2013-12-26T15:52:22.1900454+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_blue.png</Source>
+      <Name>button_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_blue.xnb</Output>
+      <Time>2013-12-26T16:16:36.0325395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_green.png</Source>
+      <Name>button_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_green.xnb</Output>
+      <Time>2013-12-26T16:16:36.0175378+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_orange.png</Source>
+      <Name>button_orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_orange.xnb</Output>
+      <Time>2013-12-26T16:16:36.0205367+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_purple.png</Source>
+      <Name>button_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_purple.xnb</Output>
+      <Time>2013-12-26T16:16:36.0235372+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_red.png</Source>
+      <Name>button_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_red.xnb</Output>
+      <Time>2013-12-26T16:16:36.0265376+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_yellow.png</Source>
+      <Name>button_yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_yellow.xnb</Output>
+      <Time>2013-12-26T16:16:36.0295381+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_orange_pressed.png</Source>
+      <Name>button_orange_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_orange_pressed.xnb</Output>
+      <Time>2013-12-26T16:35:14.4329267+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_blue_pressed.png</Source>
+      <Name>button_blue_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_blue_pressed.xnb</Output>
+      <Time>2013-12-26T17:18:42.9953637+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_green_pressed.png</Source>
+      <Name>button_green_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_green_pressed.xnb</Output>
+      <Time>2013-12-26T17:18:42.999365+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_purple_pressed.png</Source>
+      <Name>button_purple_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_purple_pressed.xnb</Output>
+      <Time>2013-12-26T17:18:43.0213669+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_red_pressed.png</Source>
+      <Name>button_red_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_red_pressed.xnb</Output>
+      <Time>2013-12-26T17:18:42.9903643+00:00</Time>
+    </Item>
+    <Item>
+      <Source>button_yellow_pressed.png</Source>
+      <Name>button_yellow_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\button_yellow_pressed.xnb</Output>
+      <Time>2013-12-26T17:18:42.9923629+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{95CD39F6-76A5-4939-BB83-178E1A0C3B4F}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_HeroContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>c:\users\morro\documents\visual studio 2012\Projects\Phone_Hero\Phone_Hero\Phone_Hero\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-23T20:18:03.5577462+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

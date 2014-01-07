@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone_Hero", "Phone_Hero\Phone_Hero\Phone_Hero.csproj", "{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Phone_HeroContent", "Phone_Hero\Phone_HeroContent\Phone_HeroContent.contentproj", "{95CD39F6-76A5-4939-BB83-178E1A0C3B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{B409FCAC-CD0A-4B69-84DF-60CA2C94A76E}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{95CD39F6-76A5-4939-BB83-178E1A0C3B4F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{95CD39F6-76A5-4939-BB83-178E1A0C3B4F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
